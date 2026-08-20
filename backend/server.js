@@ -71,7 +71,7 @@ let doctors = [
 let appointments = [
   {
     id: 1,
-    patientName: 'Aksh',
+    patientName: 'Alice Freeman',
     doctorName: 'Dr. Khanjan',
     date: '2026-08-25',
     timeSlot: '10:00 AM',
@@ -80,7 +80,7 @@ let appointments = [
   },
   {
     id: 2,
-    patientName: 'Kalp',
+    patientName: 'Bob Smith',
     doctorName: 'Dr. Yug',
     date: '2026-08-26',
     timeSlot: '02:30 PM',
@@ -89,7 +89,7 @@ let appointments = [
   },
   {
     id: 3,
-    patientName: 'Priyanshu',
+    patientName: 'Charlie Brown',
     doctorName: 'Dr. Dhruv',
     date: '2026-08-22',
     timeSlot: '11:15 AM',
